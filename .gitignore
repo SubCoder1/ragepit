@@ -1,0 +1,36 @@
+# ============ Unity & OS generated ============
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ============ Mac/Windows/System =============
+.DS_Store
+Thumbs.db
+
+# ============ JetBrains Rider =============
+.idea/
+*.sln.iml
+
+# ============ Unity Asset Store tools =========
+Assets/Plugins/Editor/JetBrains*
+
+# Optional: ignore game executables and data
+*.exe
+*.apk
+*.unitypackage

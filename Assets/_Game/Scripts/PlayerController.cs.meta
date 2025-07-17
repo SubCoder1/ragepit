@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ed2df62504ca5749b07e871c7c10892
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cameraTransform: {instanceID: 0}
+  - moveAction: {fileID: 1591787287157945863, guid: 60d6cba1cf35a044784be6238c133501, type: 3}
+  - runAction: {fileID: 1189528397518033482, guid: 60d6cba1cf35a044784be6238c133501, type: 3}
+  - jumpAction: {fileID: -2286508069444645278, guid: 60d6cba1cf35a044784be6238c133501, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
