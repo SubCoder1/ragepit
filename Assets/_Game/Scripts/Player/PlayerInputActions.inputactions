@@ -1,4 +1,5 @@
 {
+    "version": 1,
     "name": "PlayerInputActions",
     "maps": [
         {
@@ -100,7 +101,7 @@
                 },
                 {
                     "name": "",
-                    "id": "3135d3bc-73bf-4093-9b97-63a1db666d89",
+                    "id": "45c575c5-bd10-4d5e-8c15-878cb654a475",
                     "path": "<Mouse>/delta",
                     "interactions": "",
                     "processors": "InvertVector2(invertX=false)",

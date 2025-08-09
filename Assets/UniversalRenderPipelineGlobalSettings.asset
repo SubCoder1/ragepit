@@ -62,7 +62,18 @@ MonoBehaviour:
       - rid: 7799665424002187512
       - rid: 7799665424002187513
     m_RuntimeSettings:
-      m_List: []
+      m_List:
+      - rid: 7799665424002187488
+      - rid: 7799665424002187494
+      - rid: 7799665424002187495
+      - rid: 7799665424002187497
+      - rid: 7799665424002187498
+      - rid: 7799665424002187499
+      - rid: 7799665424002187500
+      - rid: 7799665424002187503
+      - rid: 7799665424002187511
+      - rid: 7799665424002187512
+      - rid: 7799665424002187513
   m_AssetVersion: 8
   m_ObsoleteDefaultVolumeProfile: {fileID: 0}
   m_RenderingLayerNames:
@@ -172,7 +183,7 @@ MonoBehaviour:
       type: {class: URPDefaultVolumeProfileSettings, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
         m_Version: 0
-        m_VolumeProfile: {fileID: 11400000, guid: 7e898fcd4cfbf224dad55fb873c7dbd4, type: 2}
+        m_VolumeProfile: {fileID: 0}
     - rid: 7799665424002187495
       type: {class: UniversalRenderPipelineRuntimeShaders, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
@@ -342,7 +353,7 @@ MonoBehaviour:
       type: {class: LightmapSamplingSettings, ns: UnityEngine.Rendering, asm: Unity.RenderPipelines.Core.Runtime}
       data:
         m_Version: 1
-        m_UseBicubicLightmapSampling: 1
+        m_UseBicubicLightmapSampling: 0
     - rid: 7799665424002187511
       type: {class: ShaderStrippingSetting, ns: UnityEngine.Rendering, asm: Unity.RenderPipelines.Core.Runtime}
       data:
